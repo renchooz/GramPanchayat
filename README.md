@@ -3,7 +3,7 @@
 A modern, responsive website for **Gram Panchayat Longwala**, built using **React + Tailwind CSS**.  
 The site highlights community initiatives, schemes, galleries, news updates, and contact details.  
 
-🚀 Hosted on 
+🚀 Hosted on (https://grampanchayat.onrender.com)
 
 ---
 
